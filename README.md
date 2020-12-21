@@ -3,4 +3,4 @@ Prototipo de aplicación multimedia de videos interactivos, en la cual puedes su
 El lenguaje de programación que se ha utilizado ha sido JavaFx. Con IDE Netbeans y Scene Builder
 # Desarrollado por:
 Nerea Cabiedas Moreno
-Víctor Ávila Ortega  
+Víctor Ávi la Ortega  

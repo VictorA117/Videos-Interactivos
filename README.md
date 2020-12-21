@@ -5,5 +5,6 @@ El lenguaje de programación que se ha utilizado ha sido JavaFx. Con IDE Netbean
 # Link del proyecto
 https://drive.google.com/file/d/167CghOiSCRdGbYPjzcX0wH1g3JW1Llhy/view?usp=sharing
 # Desarrollado por:
-Nerea Cabiedas Moreno
+Nerea Cabiedas  Moreno 
+
 Víctor Ávila Ortega  
